@@ -36,9 +36,11 @@ I build and ship production applications, agentic AI systems, and automation pip
 
 ### Work
 
-**Founder & Lead Engineer** @ Org in a Box · **Founder & Lead Engineer** @ Dynasty Platforms  
-**IT Automations Engineer** @ AdvancedBits · **EECS Lab Engineer** @ Florida Atlantic University  
-**L2 IT Engineer** @ Skynet Enterprises
+**Founder & Lead Engineer** @ Org in a Box  
+**Founder & Lead Engineer** @ Dynasty Platforms  
+**IT Automations Engineer** @ AdvancedBits  
+**EECS Lab Engineer** @ Florida Atlantic University  
+**L2 IT Engineer** @ Skynet Enterprises  
 
 **Education:** B.S. Computer Science, Minor in Cybersecurity — Florida Atlantic University (GPA: 3.8)
 
