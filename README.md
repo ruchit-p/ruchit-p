@@ -14,8 +14,8 @@ I build and ship production applications, agentic AI systems, and automation pip
 
 **Languages:** TypeScript/JavaScript · Python · Rust · Swift · C++ · SQL · Bash  
 **Frontend:** React · Next.js · React Native · Tailwind CSS  
-**Backend & AI:** Node.js · FastAPI · LangGraph/LangChain · FastMCP · OpenAI/Claude/Gemini APIs · RAG · Qdrant · Ollama  
-**Infrastructure:** AWS · GCP · Azure · Docker · Kubernetes · Cloudflare · Firebase · n8n  
+**Backend & AI:** Node.js · FastAPI · LangGraph/LangChain · FastMCP · OpenAI/Claude/Gemini APIs · RAG · Vllm · Ollama
+**Infrastructure:** AWS · GCP · Azure · Docker · Kubernetes · Cloudflare · Firebase · Daytona · E2B
 **Databases:** PostgreSQL · MongoDB · Firestore · Qdrant (vector)
 
 ---
