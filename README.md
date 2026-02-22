@@ -21,6 +21,12 @@ I build and ship production applications, agentic AI systems, and automation pip
 
 ---
 
+### Currently Working on Better-Auth-Agents.
+
+View GH Repo here: [**Better-Auth-Agents**](https://github.com/better-auth-agents/better-auth-agents)
+
+---
+
 ### Featured Projects
 
 | Project | Description | Stack |
