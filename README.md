@@ -31,11 +31,11 @@ View GH Repo here: [**Better-Auth-Agents**](https://github.com/better-auth-agent
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Org in a Box** | Full-stack AI productivity platform with agentic systems that execute tasks via event triggers and scheduled workflows. | Next.js, FastAPI, LangGraph, Claude/Gemini/OpenAI |
+| [**Essence Scraping Engine**](https://github.com/ruchit-p/essence) | High-concurrency web scraper in Rust that converts pages to clean LLM-readable Markdown — a faster Firecrawl alternative. | Rust, MCP |
 | [**LegisMCP**](https://github.com/ruchit-p/LegisMCP) | Natural-language legislative research tool pulling live data from Congress.gov, Bulk Data API, and OpenStates. | LangGraph, FastMCP, TypeScript |
-| [**Brand Protection Service**](https://github.com/ruchit-p/brand-protection-service) | AI-powered system with automated web scraping and threat analysis for online impersonation detection. | Python |
 | [**Dynasty App**](https://github.com/ruchit-p/dynastyApp) | Private family social platform with E2E encrypted communication, event planning, and secure vault storage. | Swift, React Native, Firebase |
-| **Essence Scraping Engine** | High-concurrency web scraper in Rust that converts pages to clean LLM-readable Markdown — a faster Firecrawl alternative. | Rust, MCP |
+| **Org in a Box** | Full-stack AI productivity platform with agentic systems that execute tasks via event triggers and scheduled workflows. | Next.js, FastAPI, LangGraph, Claude/Gemini/OpenAI |
+| [**Brand Protection Service**](https://github.com/ruchit-p/brand-protection-service) | AI-powered system with automated web scraping and threat analysis for online impersonation detection. | Python |
 | **Adversarial Image Privacy Tool** | 🏆 **1st Place, FAU AI Hackathon** — GAN-based tool that defeats facial recognition while keeping images visually identical. | Python, GANs |
 
 ---
@@ -52,5 +52,5 @@ View GH Repo here: [**Better-Auth-Agents**](https://github.com/better-auth-agent
 
 ---
 
-*Currently open to Full Stack Software Engineer and Technical Project Manager opportunities.*  
+*Currently open to Software Engineer, Technical Project Manager, and related opportunities.*  
 *Let's connect → [ruchitp.com](https://ruchitp.com)*
