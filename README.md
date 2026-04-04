@@ -47,4 +47,4 @@ I build and ship production applications, agentic AI systems, and automation pip
 ---
 
 *Currently open to Software Engineer, Technical Project Manager, and related opportunities.*  
-*Let's connect → [ruchitp.com](https://ruchitp.com)*
+*Let's connect → [ruchitp26@protonmail.com](mailto:ruchitp26@protonmail.com)*
