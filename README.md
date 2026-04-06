@@ -1,8 +1,8 @@
 # Hey, I'm Ruchit 👋
 
-**Full Stack Software Engineer & Founder**
+**Founder & Full Stack Software Engineer**
 
-I build and ship production applications, agentic AI systems, and automation pipelines from zero to one. From architecture to deployment across web, mobile, and cloud — I bridge product vision with technical execution.
+I design, build, and ship production applications, agentic AI systems, and automation pipelines from zero to one. From architecture to deployment across web, mobile, and cloud — I bridge product vision with technical execution.
 
 [![Portfolio](https://img.shields.io/badge/ruchitp.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ruchitp.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruchit-p)
