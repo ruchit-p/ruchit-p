@@ -29,7 +29,7 @@ I design, build, and ship production applications, agentic AI systems, and autom
 | [**LegisMCP**](https://github.com/ruchit-p/LegisMCP) | Natural-language legislative research tool pulling live data from Congress.gov, Bulk Data API, and OpenStates. | LangGraph, FastMCP, TypeScript |
 | [**Dynasty App**](https://github.com/ruchit-p/DynastyMobile) | Private family social platform with E2E encrypted communication, event planning, and secure vault storage. | Swift, React Native, Firebase |
 | [**Org in a Box**](https://orginabox.com) | Full-stack AI productivity platform with agentic systems that execute tasks via event triggers and scheduled workflows. | Next.js, FastAPI, LangGraph, Claude/Gemini/OpenAI |
-| [**Brand Protection Service**]([https://github.com/ruchit-p/brand-protection-service]) | AI-powered system with automated web scraping and threat analysis for online impersonation detection. | Python |
+| [**Brand Protection Service**](https://github.com/ruchit-p/brand-protection-service) | AI-powered system with automated web scraping and threat analysis for online impersonation detection. | Python |
 | **Adversarial Image Privacy Tool** | 🏆 **1st Place, FAU AI Hackathon** — GAN-based tool that defeats facial recognition while keeping images visually identical. | Python, GANs |
 
 ---
