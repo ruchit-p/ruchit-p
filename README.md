@@ -26,6 +26,7 @@ I design, build, and ship production applications, agentic AI systems, and autom
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Essence Scraping Engine**](https://github.com/ruchit-p/essence) | High-concurrency web scraper in Rust that converts pages to clean LLM-readable Markdown — a faster Firecrawl alternative. | Rust, MCP |
+| [**MacWright**](https://github.com/ruchit-p/macwright) | macOS desktop-control MCP server that lets AI agents interact with local applications, automate workflows, and operate the computer through structured tools. | Python, FastMCP, macOS Automation |
 | [**LegisMCP**](https://github.com/ruchit-p/LegisMCP) | Natural-language legislative research tool pulling live data from Congress.gov, Bulk Data API, and OpenStates. | LangGraph, FastMCP, TypeScript |
 | [**Dynasty App**](https://github.com/ruchit-p/DynastyMobile) | Private family social platform with E2E encrypted communication, event planning, and secure vault storage. | Swift, React Native, Firebase |
 | [**Org in a Box**](https://orginabox.com) | Full-stack AI productivity platform with agentic systems that execute tasks via event triggers and scheduled workflows. | Next.js, FastAPI, LangGraph, Claude/Gemini/OpenAI |
